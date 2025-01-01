@@ -3,7 +3,7 @@ package com.example.testunitaires.exercice_1
 import org.junit.Assert.*
 import org.junit.Test
 
-class CalculTDDTest {
+class CalculTest {
 
     private val calcul = CalculTDD()
 
